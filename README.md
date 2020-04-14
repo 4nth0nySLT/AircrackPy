@@ -2,7 +2,12 @@
 
 Un simple módulo de automatización de crackeo de WPAKEY.
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F4nth0nySLT%2FAircrackPy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2F4nth0nySLT%2FAircrackPy?ref=badge_shield)
+<p align="center">
+    <a href="https://github.com/4nth0nySLT/AircrackPy/releases/latest"><img alt="Release" src="https://img.shields.io/badge/AircrackPy-v1.1-blue"></a>
+  <img alt="Plataforma" src="https://img.shields.io/badge/Plataforma-win--32%20%7C%20win--64-lightgrey"></a>
+    <a href="https://github.com/4nth0nySLT/AircrackPy/blob/master/LICENSE.md"><img alt="Software License" src="https://img.shields.io/badge/license-MIT-%23373737"></a>
+</p>
+
 
 ## ¡¡¡Se requiere de aircrack-ng.exe!!!
 https://github.com/aircrack-ng/aircrack-ng
