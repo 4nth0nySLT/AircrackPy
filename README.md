@@ -3,7 +3,7 @@
 Un simple módulo de automatización de crackeo de WPAKEY.
 
 <p align="center">
-    <img alt="Plataforma" src="https://img.shields.io/badge/Plataforma-Solo%20win--32%20%7C%20win--64-gold"></a>
+    <img alt="Plataforma" src="https://img.shields.io/badge/-%20win--32%20%7C%20win--64-gold?logo=windows&logoColor=blue"></a>
     <a href="https://github.com/4nth0nySLT/AircrackPy/releases/latest"><img alt="Release" src="https://img.shields.io/badge/AircrackPy-Descargar-blue"></a>
     <a href="https://github.com/4nth0nySLT/AircrackPy/blob/master/LICENSE"><img alt="Software License" src="https://img.shields.io/badge/license-MIT-red"></a>
 </p>
