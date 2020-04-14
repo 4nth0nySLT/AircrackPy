@@ -9,15 +9,15 @@ Un simple módulo de automatización de crackeo de WPAKEY.
 </p>
 
 
-## ¡¡¡Se requiere de aircrack-ng.exe!!!
+## ¡¡¡Se requiere de aircrack-ng.exe!!! (Ya incluido en el repositorio.)
 https://github.com/aircrack-ng/aircrack-ng
 
 Descargalo oficialmente en: https://www.aircrack-ng.org/index.html, directamente en: https://download.aircrack-ng.org/aircrack-ng-1.6-win.zip
 
 O solamente utilizar lo necesario que viene incluido en el repositorio, todos sus derechos reservados a sus creadores.
 
-## Opcional crunch_win.exe
-https://github.com/shadwork/Windows-Crunch/releases (Ya incluido en el repositorio.)
+## Opcional crunch_win.exe (Ya incluido en el repositorio.)
+https://github.com/shadwork/Windows-Crunch/releases 
 
 ## Formulario
 Con capacidad de enviar las contraseñas a través de un formulario, debes crear uno en https://docs.google.com/forms.
