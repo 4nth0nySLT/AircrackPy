@@ -21,10 +21,10 @@ https://github.com/shadwork/Windows-Crunch/releases
 
 ## Formulario
 Con capacidad de enviar las contraseñas a través de un formulario, debes crear uno en https://docs.google.com/forms.
-![HOLA](https://raw.githubusercontent.com/4nth0nySLT/AircrackPy/master/1.png)
-![HOLA](https://raw.githubusercontent.com/4nth0nySLT/AircrackPy/master/2.png)
+![HOLA](https://raw.githubusercontent.com/4nth0nySLT/AircrackPy/master/img/1.png)
+![HOLA](https://raw.githubusercontent.com/4nth0nySLT/AircrackPy/master/img/2.png)
 ### Click en "Obtener enlace previamente rellenado"
-![HOLA](https://raw.githubusercontent.com/4nth0nySLT/AircrackPy/master/3.png)
+![HOLA](https://raw.githubusercontent.com/4nth0nySLT/AircrackPy/master/img/3.png)
 
 
 Luego de generar el enlace, aparecerá una opción en la que podremos copiarlo, resultara uno como este:
@@ -44,7 +44,7 @@ $$$$$$$$$$$$$$$$
 @@@@@@@@@@@@@
 ```
 
-![HOLA](https://raw.githubusercontent.com/4nth0nySLT/AircrackPy/master/4.png)
+![HOLA](https://raw.githubusercontent.com/4nth0nySLT/AircrackPy/master/img/4.png)
 ### Acá puedes activar las notificaciones vía gmail. :P
 
 
